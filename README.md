@@ -1,5 +1,7 @@
 # Full Stack Movie Review Application
 
+![Screenshot 2024-10-18 165132](https://github.com/user-attachments/assets/4cfa116e-4d3c-49c3-a909-daa593fdbfee)
+
 ## Overview
 This project is a Full Stack Movie Review Application that allows users to browse movies and submit reviews. Built with a clear separation of concerns, it features a React frontend, a Java Spring Boot backend, and MongoDB for data storage. 
 
